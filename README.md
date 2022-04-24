@@ -74,12 +74,14 @@ one of three categories - very urgent, urgent, and not urgent.
 ### Built With
 
 * [Python](https://python.com)
-* [sklearn]
-* [nltk]
-* [tkinter]
-* [sklearn]
-* [nltk]
-* [imap_tools]
+* [sklearn](https://scikit-learn.org/stable/)
+* [nltk](https://www.nltk.org/)
+* [tkinter](https://docs.python.org/3/library/tkinter.html)
+* [imap_tools](https://github.com/ikvk/imap_tools)
+* [tensorflow](https://www.tensorflow.org/)
+* [keras](https://keras.io/)
+* [pandas](https://pandas.pydata.org/)
+* [numpy](https://numpy.org/)
 
 
 ## Folder structure
@@ -106,7 +108,7 @@ one of three categories - very urgent, urgent, and not urgent.
 
 
   ```sh
-  pip3 install requirements.txt
+      pip3 install -r requirements.txt
   ```
 
 
