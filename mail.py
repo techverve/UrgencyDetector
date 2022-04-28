@@ -78,8 +78,8 @@ def clean_tweet(data, wordNetLemmatizer, porterStemmer):
 	return data
 def inference(loaded_model, vector):
         imap_gmail = "imap.gmail.com"
-        my_email = "hemankith@gmail.com"
-        my_pass = "pes2201900094"
+        my_email = "xxx"
+        my_pass = "xxx"
         # get list of email subjects from INBOX folder
         # with MailBox(imap_gmail).login(my_email, my_pass) as mailbox:
         #     subjects = [msg.subject for msg in mailbox.fetch()]
