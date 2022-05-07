@@ -162,11 +162,12 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Your Name -
 </br>
-O P Joy Jefferson - joy.jefferson10@gmail.com
-</br>
+
 Hemankith Reddy - hemankith@gmail.com
 </br>
 Kulachi Thapar - TBU
+</br>
+O P Joy Jefferson - joy.jefferson10@gmail.com
 
 Project Link: https://github.com/jeff10joy/UrgencyDetector
 
